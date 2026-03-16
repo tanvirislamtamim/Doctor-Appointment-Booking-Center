@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "image": "success-doctor.png",
+        "name": "Total Doctors"
+    },
+    {
+        "id": 1,
+        "image": "success-review.png",
+        "name": "Total Reviews"
+    },
+    {
+        "id": 1,
+        "image": "success-patients.png",
+        "name": "Total Patients"
+    },
+    {
+        "id": 1,
+        "image": "success-staffs.png",
+        "name": "Total Staffs"
+    }
+]
